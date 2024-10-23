@@ -1,0 +1,56 @@
+16:37:40.485 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+16:37:40.492 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+16:37:44.386 [main] INFO  testCases.TC002_LoginTest - Starting TC_002 login test
+16:37:45.941 [main] INFO  testCases.TC002_LoginTest - Finished TC_002 login test
+16:41:57.843 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\JAVA Training\HybridFrameworkDemo\master.xml"
+16:41:58.046 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\JAVA Training\HybridFrameworkDemo\master.xml
+
+16:42:01.964 [main] INFO  testCases.TC001_AccountRegistrationTest - starting TC001_AccountRegistrationTest
+16:42:02.089 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyAccount link
+16:42:02.765 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+16:42:02.766 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+16:42:04.271 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+16:42:07.741 [main] INFO  testCases.TC002_LoginTest - Starting TC_002 login test
+16:42:09.268 [main] INFO  testCases.TC002_LoginTest - Finished TC_002 login test
+16:44:04.145 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\JAVA Training\HybridFrameworkDemo\master.xml"
+16:44:04.351 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\JAVA Training\HybridFrameworkDemo\master.xml
+
+16:44:07.919 [main] INFO  testCases.TC001_AccountRegistrationTest - starting TC001_AccountRegistrationTest
+16:44:08.018 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyAccount link
+16:44:08.725 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+16:44:08.728 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+16:44:10.111 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+16:44:10.154 [main] INFO  testCases.TC001_AccountRegistrationTest - finished TC001_AccountRegistrationTest
+16:44:13.486 [main] INFO  testCases.TC002_LoginTest - Starting TC_002 login test
+16:44:14.987 [main] INFO  testCases.TC002_LoginTest - Finished TC_002 login test
+16:47:54.216 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\JAVA Training\HybridFrameworkDemo\crossbrowsertesting.xml"
+16:48:31.069 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\JAVA Training\HybridFrameworkDemo\grouping.xml"
+16:48:31.281 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\JAVA Training\HybridFrameworkDemo\grouping.xml
+
+16:48:34.964 [main] INFO  testCases.TC002_LoginTest - Starting TC_002 login test
+16:48:36.438 [main] INFO  testCases.TC002_LoginTest - Finished TC_002 login test
+16:48:39.684 [main] INFO  testCases.TC001_AccountRegistrationTest - starting TC001_AccountRegistrationTest
+16:48:39.750 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyAccount link
+16:48:40.379 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+16:48:40.380 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+16:48:41.709 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+16:48:41.743 [main] INFO  testCases.TC001_AccountRegistrationTest - finished TC001_AccountRegistrationTest
+16:50:59.541 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\JAVA Training\HybridFrameworkDemo\crossbrowsertesting.xml"
+17:17:08.889 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\JAVA Training\HybridFrameworkDemo\crossbrowsertesting.xml"
+17:18:18.634 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\JAVA Training\HybridFrameworkDemo\crossbrowsertesting.xml"
+17:19:12.392 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\JAVA Training\HybridFrameworkDemo\crossbrowsertesting.xml"
+17:22:40.190 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\JAVA Training\HybridFrameworkDemo\crossbrowsertesting.xml"
+10:30:24.697 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\JAVA Training\HybridFrameworkDemo\grouping.xml"
+10:30:25.003 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\JAVA Training\HybridFrameworkDemo\grouping.xml
+
+10:30:34.775 [main] INFO  testCases.TC002_LoginTest - Starting TC_002 login test
+10:30:36.257 [main] INFO  testCases.TC002_LoginTest - Finished TC_002 login test
+10:30:39.419 [main] INFO  testCases.TC001_AccountRegistrationTest - starting TC001_AccountRegistrationTest
+10:30:39.550 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MyAccount link
+10:30:40.230 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+10:30:40.232 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+10:30:41.564 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
